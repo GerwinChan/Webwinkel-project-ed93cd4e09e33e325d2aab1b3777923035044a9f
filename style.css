@@ -125,9 +125,29 @@ color:lightgrey;
     font-size: 25px;
 }
 nav {
-    top: 0;
-    position: relative;
+
+    height: 2 em;
     display: block;
+    width: 100%;
+    transition-property: top;
+    transition-duration: 500ms;
+    top: 0;
+    position: fixed;
+
+}
+
+nav ul {
+    
+    list-style-type:  none;
+    margin: 0;
+    padding: 0 2em;
+    overflow: hidden;
+}
+
+nav ul li {
+    
+    float: left;
+    padding: 0 2em;
 }
 #banner{
     height: 300px;

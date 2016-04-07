@@ -29,7 +29,7 @@ else {
         
        <nav>
         <div id='cssmenu'>
-            <a href="indexlogin.php"><input type="image" src="Afbeeldingen/lgout.png" id="button2" value="Log in"</a>
+            <a href="index.php"><input type="image" src="Afbeeldingen/lgout.png" id="button2" value="Log in"</a>
                 <ul class="knoppen">
                     <li class='active'><a id="ewa" href='#home'><span>FRICS</span></a></li>
                     <li><a href='#men'><span>MEN</span></a></li>
