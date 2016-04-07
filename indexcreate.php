@@ -36,8 +36,8 @@ if (isset($_POST['submit_btn']))
 <form action="" method="POST">
     <h1 style="color:white"> Please enter your information to create a new login account</h1>
  <p>
-     <label>Login Name:</label><input type="text" name="name" />
-     <label>Password:</label><input type="password" name="pwd" />
+     <label>Login Name:</label><input type="email" name="name" placeholder="Yourname@email.com" />
+     <label>Password:</label><input type="password" name="pwd" placeholder="Password"/>
     <br/>
     <br/>
 </p>

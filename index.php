@@ -371,8 +371,8 @@ Boxershorts in uni en dessin in 2-pack
  </footer>
         <script src="//code.jquery.com/jquery-1.12.0.min.js"></script>
         <script src="script.js"></script>
-            <script src="js/scrollNavbar.js"></script>
-
+        <script src="js/scrollNavbar.js"></script>
+        
             
         <!--<script src="script3.js"></script>-->
         
