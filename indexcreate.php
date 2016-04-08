@@ -43,7 +43,7 @@ if (isset($_POST['submit_btn']))
 </p>
     
     <p style="color:white">SAVE YOUR INFORMATION FIRST AND THEN LOG IN!</p>
-   <input type="submit" name="submit_btn" id="submit" value="Save"/>
+   <input type="submit" name="submit_btn" id="submit" value="Save"</a>
      <input type="reset" id="reset" value="reset"/>
         <a href="indexlogin.php"><input type="button" id="button2" value="Log in"</a>
 </form>

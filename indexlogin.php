@@ -52,8 +52,8 @@ $isItThere = strpos($userData, $inputUser);//zoek naar een match
 <form action="indexlogin.php" method="POST">
     <h1 style="color:white"> Please enter your information to login</h1>
  <p>
-     <label>Login Name:</label><input type="text" name="name" />
-     <label>Password:</label><input type="password" name="pwd" />
+     <label>Login Name:</label><input type="text" name="name" placeholder="Yourname@email.com" />
+     <label>Password:</label><input type="password" name="pwd" placeholder="Password" />
     <br/>
     <br/>
 </p>

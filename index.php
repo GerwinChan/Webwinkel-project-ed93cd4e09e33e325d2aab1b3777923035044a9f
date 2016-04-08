@@ -24,9 +24,11 @@
                 </ul>
         </div>
         </nav>
+           <br>
+           <br>
         <div class="container_12">
             <div id="home" class="paneel actief">
-                Welcome to our website.
+                <b>Welcome to our website.</b>
               
                 <br>
                 <img src="Afbeeldingen/2000px-Acme_Markets_lolo.svg.png" id="acme">
@@ -132,6 +134,14 @@ Mid rise skinny jeans met faded look
                     <br>
                     €119
                 </div>
+                    <div class="grid_5">
+                    <img src="Afbeeldingen/calvinwo.jpg">
+                    <h3>Calvin Klein</h3>
+                    Calvin Klein Jeans
+Mid rise skinny jeans met faded look
+                    <br>
+                    €119
+                </div>
                 </div>
 </div>
             <div id="underwear" class="paneel">
@@ -178,6 +188,13 @@ Boxershorts in uni en dessin in 2-pack
                     <br>
                     €104
                 </div>
+                    <div class="grid_5">
+                    <img src="Afbeeldingen/spc.jpg">
+                    <h3>Simone Perele</h3>
+                    Simone Perele Chemise Celeste
+                    <br>
+                    €104
+                </div>
                 </div>
         </div>
             <div id="shoes" class="paneel">
@@ -215,7 +232,7 @@ Boxershorts in uni en dessin in 2-pack
                     €179,99
                 </div>
                 <div class="grid_5">
-                    <img src="Afbeeldingen/hua.jpg">
+                    <img src="Afbeeldingen/hua.jpg" id="hoi">
                     <h3>Nike</h3>
                     Nike Air Huarache Triple Black
                     <br>
@@ -257,7 +274,7 @@ Boxershorts in uni en dessin in 2-pack
                 </div>
                 <div class="clear"></div>
                 <div class="grid_5">
-                    <img src="Afbeeldingen/article-2376616-1AF9A570000005DC-268_634x782.jpg">
+                    <img src="Afbeeldingen/article-2376616-1AF9A570000005DC-268_634x782.jpg" id="bye">
                     <h3>Louis Vuitton</h3>
                     Louis Vuitton Lockit MM
                     <br>
@@ -270,8 +287,16 @@ Boxershorts in uni en dessin in 2-pack
                     <br>
                     €855
                 </div>
+                   <div class="grid_5">
+                    <img src="Afbeeldingen/louis-vuitton-neverfull-gm-monogram-canvas-handbags--M41180_PM2_Front%20view.jpg">
+                    <h3>Louis Vuitton</h3>
+                    Louis Vuitton Neverfull gm Monogram
+                    <br>
+                    €855
+                </div>
             </div>
             <br>
+            <hr>
               <script type="text/javascript" src="js/jquery-1.9.1.min.js"></script>
     <script type="text/javascript" src="js/jssor.slider.mini.js"></script>
         <script>
@@ -361,7 +386,7 @@ Boxershorts in uni en dessin in 2-pack
            <div id="footer1">
                <p><h4>CONTACT</h4></p>
             <ul>
-                <li><a>EMAIL</a></li>   
+                <li><a href="contactOns.html">EMAIL US</a></li>   
                 <li><a>KLANTENSERVICE</a></li>   
                 <li><a>SOCIAL MEDIA</a></li>   
                
